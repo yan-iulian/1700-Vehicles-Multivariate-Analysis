@@ -1,8 +1,8 @@
-# 🚗 Studiu Multivariat: Analiza Pieței Auto
+#  Studiu Multivariat: Analiza Pieței Auto
 
 Proiectul reprezintă un studiu complex asupra domeniului auto, investigând relațiile dintre diverse branduri, modele și motorizări. Studiul se bazează pe **13 variabile esențiale**, incluzând puterea, accelerația (0-100 km/h), cuplul, dimensiunile (lungime, capacitate portbagaj) și alte specificații tehnice.
 
-## 📊 Setul de Date
+##  Setul de Date
 
 Datele utilizate sunt reale și provin de pe Kaggle: [Car Specification Dataset](https://www.kaggle.com/datasets/usefashrfi/car-specification-dataset).
 
@@ -11,7 +11,7 @@ Datele utilizate sunt reale și provin de pe Kaggle: [Car Specification Dataset]
 - **Set final:** **1.693 de mașini**, aparținând a peste **50 de branduri**, cu peste 25 de modele fiecare.
 - **Locație:** Fișierul `.csv` final se află în folderul *SET DE DATE*.
 
-## 📂 Structura Proiectului
+##  Structura Proiectului
 
 Proiectul este documentat și organizat pentru a facilita atât vizualizarea rapidă, cât și execuția tehnică:
 
@@ -31,7 +31,7 @@ Fiecare analiză are propriul folder care include:
 - *Notă:* Graficele pot fi vizualizate rulând scriptul sau direct în fișierele Notebook/HTML.
 - *Notă:* Scriptul *utils.py* conține câteva funcții importante apelate în scripturile aferente analizelor multivariate.
 
-## 🧮 Analize Multivariate Abordate
+##  Analize Multivariate Abordate
 
 Proiectul acoperă 5 metode statistice distincte pentru a extrage informații relevante din setul de date:
 
@@ -41,7 +41,7 @@ Proiectul acoperă 5 metode statistice distincte pentru a extrage informații re
 4. **Analiza Discriminantă Liniară (LDA)**
 5. **Analiza Clusterilor Ierarhici**
 
-## 🛠️ Tehnologii Utilizate
+##  Tehnologii Utilizate
 
 Proiectul a fost realizat folosind limbajul **Python** și următoarele biblioteci pentru manipularea datelor, calcule statistice și vizualizare:
 
