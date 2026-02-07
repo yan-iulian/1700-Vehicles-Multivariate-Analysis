@@ -1,4 +1,4 @@
-#  Studiu Multivariat: Analiza Pieței Auto
+#  Studiu Multivariat: Analiza Specificațiilor Automobilelor
 
 Proiectul reprezintă un studiu complex asupra domeniului auto, investigând relațiile dintre diverse branduri, modele și motorizări. Studiul se bazează pe **13 variabile esențiale**, incluzând puterea, accelerația (0-100 km/h), cuplul, dimensiunile (lungime, capacitate portbagaj) și alte specificații tehnice.
 
