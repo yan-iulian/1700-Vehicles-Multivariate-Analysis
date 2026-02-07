@@ -1,0 +1,593 @@
+ID,Company,Model,Predictia modelului
+263,QOROS,QOROS 3 Hatchbach (2014-Present),Compact
+264,ALFA ROMEO,ALFA ROMEO Giulietta (2016-Present),Compact
+265,OPEL,OPEL Astra Sport Sedan (2012-Present),Compact
+266,ALFA ROMEO,ALFA ROMEO Giulietta (2016-Present),Compact
+267,BMW,BMW 1 Series 3 doors (F20) LCI (2017-Present),Compact
+268,MAZDA,MAZDA 3 / Axela Sedan (2018-Present),Compact
+269,SKODA,SKODA Superb (2019-Present),Medium
+270,MERCEDES BENZ,MERCEDES BENZ A-Class Sedan (V177) (2018-Present),Compact
+271,Mercedes-AMG,Mercedes-AMG C43 (2022-Present),Medium Premium
+272,NISSAN,NISSAN Pulsar (2014-Present),Compact
+273,AUDI,AUDI S3 Sportback (2020-Present),Compact
+274,RENAULT,RENAULT Captur (2019-Present),Crossover
+275,BMW,BMW 2 Series Gran Tourer (F46) (2018-Present),Crossover
+276,BMW,BMW 2 Series Gran Tourer (F46) (2018-Present),Medium MPV
+277,KIA,2019 Kia ProCeed,Compact
+278,KIA,KIA cee'd (2015-Present),Compact
+279,AUDI,AUDI RS 3 Sportback (2021-Present),Roadster & Convertible
+280,RENAULT,RENAULT Megane Coupe - Cabrio (2014-Present),Compact
+281,KIA,2012 Kia cee'd,Compact
+282,FORD,FORD Focus Active Wagon (2021-Present),Compact
+283,TOYOTA,TOYOTA AURIS (2018-Present),Compact
+284,QOROS,QOROS 3 Sedan (2013-Present),Compact
+285,HOLDEN,HOLDEN Cruze (2008-Present),Compact
+286,AUDI,AUDI A3 Sportback (2020-Present),Compact
+287,MERCEDES BENZ,2019 Mercedes-Benz CLA Shooting Brake,Entry Premium
+288,KIA,2012 Kia cee'd,Compact
+289,SKODA,SKODA Superb (2019-Present),Medium
+290,SUZUKI,SUZUKI Baleno (2016-Present),Compact
+291,BMW,BMW 2 Series Gran Tourer (F46) (2018-Present),Crossover
+292,BMW,BMW 2 Series Gran Tourer (F46) (2018-Present),Medium MPV
+293,CHEVROLET,CHEVROLET Cruze Wagon (2012-Present),Compact
+294,OPEL,OPEL Corsa 3 Doors (2014-Present),Compact
+295,CITROEN,CITROEN DS5 (2011-Present),Compact
+296,BMW,BMW 1 Series (F40) (2019-Present),Compact
+297,TOYOTA,TOYOTA AURIS (2018-Present),Compact
+298,CHEVROLET,CHEVROLET Cruze HB5 (2011-Present),Compact
+299,QOROS,QOROS 3 Sedan (2013-Present),Compact
+300,CHEVROLET,CHEVROLET Cruze Wagon (2012-Present),Compact
+301,KIA,2012 Kia cee'd,Compact
+302,BMW,BMW 1 Series 3 doors (F20) LCI (2017-Present),Compact
+303,HOLDEN,HOLDEN Cruze (2008-Present),Compact
+304,RENAULT,RENAULT Megane Coupe - Cabrio (2014-Present),Coupe Cabrio
+305,MERCEDES BENZ,MERCEDES BENZ A-Class Sedan (V177) (2018-Present),Compact
+306,SKODA,SKODA Rapid (2012-Present),Compact
+307,GENESIS,GENESIS G70 (2021-Present),Medium
+308,FIAT,FIAT Tipo 5 Doors (2016-Present),Compact
+309,OPEL,OPEL Astra Sport Sedan (2012-Present),Compact
+310,AUDI,AUDI A3 Cabriolet (2016-Present),Compact
+311,AUDI,AUDI A3 Sedan (2020-Present),Compact
+312,MERCEDES BENZ,2019 Mercedes-Benz CLA Shooting Brake,Lower Premium
+313,SUZUKI,SUZUKI Baleno (2016-Present),Compact
+314,BMW,BMW 2 Series Gran Tourer (F46) (2018-Present),Crossover
+315,VOLKSWAGEN,VOLKSWAGEN Scirocco R (2014-Present),Compact
+316,TOYOTA,TOYOTA Corolla (2018-Present),Compact
+317,VOLKSWAGEN,VOLKSWAGEN Scirocco R (2014-Present),Compact
+318,SKODA,2019 Skoda Scala,Compact
+319,OPEL,OPEL Astra GTC (2011-Present),Compact
+320,AUDI,AUDI A3 Cabriolet (2016-Present),Compact
+321,CHEVROLET,CHEVROLET Cruze HB5 (2011-Present),Compact
+322,VOLKSWAGEN,VOLKSWAGEN Golf Sportsvan (2017-Present),Crossover
+323,KIA,2012 Kia cee'd Sportswagon,Compact
+324,FIAT,FIAT Tipo Station Wagon (2016-Present),Compact
+325,MITSUBISHI,MITSUBISHI Lancer Sportback (2008-Present),Compact
+326,OPEL,OPEL Corsa 3 Doors (2014-Present),Mini
+327,CITROEN,CITROEN C3 (2019-Present),Compact
+328,OPEL,2020 Opel Corsa,Crossover
+329,OPEL,OPEL Astra Sport Sedan (2012-Present),Compact
+330,SKODA,SKODA Superb (2019-Present),Medium
+331,BMW,BMW 1 Series 3 doors (F20) LCI (2017-Present),Compact
+332,SKODA,SKODA Rapid (2012-Present),Compact
+333,ALFA ROMEO,ALFA ROMEO Giulia (2022-Present),Medium
+334,QOROS,QOROS 3 Sedan (2013-Present),Compact
+335,NISSAN,NISSAN Pulsar (2014-Present),Compact
+336,AUDI,AUDI S3 Sedan (2020-Present),Compact
+337,VOLKSWAGEN,VOLKSWAGEN Golf Sportsvan (2017-Present),Crossover
+338,FIAT,FIAT Tipo 5 Doors (2016-Present),Compact
+339,MAZDA,MAZDA 3 / Axela Sedan (2018-Present),Compact
+340,SKODA,2019 Skoda Scala,Compact
+341,SKODA,2019 Skoda Scala,Compact
+342,GENESIS,GENESIS G70 Shooting Brake (2021-Present),Coupe Cabrio
+343,SEAT,SEAT Leon SC 3-doors (2017-Present),Compact
+344,OPEL,OPEL Astra Sport Sedan (2012-Present),Compact
+345,RENAULT,RENAULT Megane Coupe - Cabrio (2014-Present),Compact
+346,SKODA,SKODA Rapid Spaceback (2013-Present),Compact
+347,NISSAN,NISSAN Primera Sedan (2002-Present),Compact
+348,AUDI,AUDI A3 Cabriolet (2016-Present),Compact
+349,MINI,MINI Mini Cooper 3-door (2021-Present),Small
+350,SEAT,SEAT Leon SC 3-doors (2017-Present),Compact
+351,CHEVROLET,CHEVROLET Cruze HB5 (2011-Present),Compact
+352,BMW,BMW 1 Series (F40) (2019-Present),Compact
+353,OPEL,OPEL Astra Sport Sedan (2012-Present),Compact
+354,OPEL,OPEL Corsa 3 Doors (2014-Present),Mini
+355,FORD,FORD Focus (2021-Present),Compact
+356,OPEL,OPEL Astra Sport Sedan (2012-Present),Compact
+357,FIAT,FIAT Tipo Station Wagon (2016-Present),Compact
+358,CITROEN,2013 Citroen C-Elysee,Compact
+359,RENAULT,RENAULT Captur (2019-Present),Medium MPV
+360,KIA,2012 Kia cee'd,Compact
+361,MERCEDES BENZ,MERCEDES BENZ A-Class Sedan (V177) (2018-Present),Compact
+362,DS AUTOMOBILES,DS AUTOMOBILES DS 4 (2021-Present),Compact
+363,MINI,MINI Mini Cooper 3-door (2021-Present),Small
+364,RENAULT,RENAULT Captur (2019-Present),Crossover
+365,FIAT,FIAT Tipo / Egea (2015-Present),Compact
+366,DS AUTOMOBILES,DS AUTOMOBILES DS 5 (2016-Present),Compact
+367,FORD,FORD Focus ST (2021-Present),Compact
+368,AUDI,AUDI A3 Sedan (2020-Present),Compact
+369,MITSUBISHI,MITSUBISHI Lancer Sportback (2008-Present),Compact
+370,OPEL,OPEL Corsa 3 Doors (2014-Present),Mini
+371,AUDI,AUDI RS 3 Sedan (2021-Present),Roadster & Convertible
+372,OPEL,OPEL Astra Sport Sedan (2012-Present),Compact
+373,QOROS,QOROS 3 Sedan (2013-Present),Compact
+374,TOYOTA,TOYOTA AURIS (2018-Present),Compact
+375,SKODA,SKODA Fabia Combi (2018-Present),Compact
+376,VOLKSWAGEN,VOLKSWAGEN Golf R Variant (2021-Present),Compact
+377,CITROEN,CITROEN C3 (2019-Present),Compact
+378,BMW,BMW 2 Series Gran Tourer (F46) (2018-Present),Crossover
+379,SEAT,2015 Seat Leon ST Cupra,Compact
+380,MAZDA,MAZDA 3 / Axela Sedan (2018-Present),Compact
+381,SEAT,SEAT Leon Cupra (2013-Present),Compact
+382,DS AUTOMOBILES,DS AUTOMOBILES DS 5 (2016-Present),Compact
+383,TOYOTA,TOYOTA AURIS (2018-Present),Compact
+384,KIA,2012 Kia cee'd Sportswagon,Compact
+385,TOYOTA,TOYOTA Corolla (2018-Present),Compact
+386,SKODA,SKODA Rapid Spaceback (2013-Present),Compact
+387,HONDA,2023 Honda Civic eHEV,Compact
+388,BMW,BMW 2 Series Gran Tourer (F46) (2018-Present),Crossover
+389,GENESIS,GENESIS G70 (2021-Present),Medium
+390,PEUGEOT,PEUGEOT 308 GTi (2017-Present),Compact
+391,OPEL,OPEL Astra GTC (2011-Present),Compact
+392,GENESIS,GENESIS G70 Shooting Brake (2021-Present),Medium
+393,BMW,BMW 1 Series (F40) (2019-Present),Compact
+394,VOLKSWAGEN,VOLKSWAGEN Golf Sportsvan (2017-Present),Crossover
+395,GENESIS,GENESIS G70 Shooting Brake (2021-Present),Coupe Cabrio
+396,OPEL,OPEL Corsa 3 Doors (2014-Present),Mini
+397,CHEVROLET,CHEVROLET Cruze Wagon (2012-Present),Compact
+398,NISSAN,NISSAN Primera Sedan (2002-Present),Compact
+399,FORD,FORD Focus (2021-Present),Compact
+400,SKODA,SKODA Rapid (2012-Present),Compact
+401,FIAT,FIAT Tipo Station Wagon (2016-Present),Compact
+402,SKODA,SKODA Superb (2019-Present),Medium
+403,VOLKSWAGEN,VOLKSWAGEN Golf Sportsvan (2017-Present),Medium MPV
+466,JEEP,JEEP Cherokee (2018-Present),Premium SUV
+467,ALFA ROMEO,ALFA ROMEO Stelvio Quadrifoglio (2017-Present),Medium SUV
+468,MASERATI,2016 Maserati Levante,Medium SUV
+469,LAND ROVER,2019 Land Rover Defender 90,Premium SUV
+470,MERCEDES BENZ,2020 Mercedes-Benz GLB,Medium MPV
+471,TOYOTA,TOYOTA Rav4 (2018-Present),Premium SUV
+472,MERCEDES BENZ,2020 Mercedes-Benz GLE,Medium SUV
+473,PORSCHE,PORSCHE Macan T (2022-Present),Medium SUV
+474,TOYOTA,TOYOTA Fortuner (2015-Present),Large SUV
+475,KIA,KIA Borrego (2009-Present),Large SUV
+476,MERCEDES BENZ,2020 Mercedes-Benz GLB,Medium MPV
+477,RENAULT,2022 Renault Arkana,Compact
+478,PORSCHE,2024 Porsche Cayenne,Large SUV
+479,BMW,BMW X3 (2021-Present),Medium SUV
+480,LAND ROVER,2020 Land Rover Defender 110,Large SUV
+481,BMW,BMW X4 M (F98) (2019-Present),Medium SUV
+482,PORSCHE,PORSCHE Cayenne Turbo (PO536) (2017-Present),Large SUV
+483,PORSCHE,2018 Porsche Cayenne,Medium SUV
+484,PORSCHE,PORSCHE Macan (95B) (2018-Present),Medium SUV
+485,MERCEDES BENZ,2020 Mercedes-Benz GLC Coupe,Crossover
+486,LAND ROVER,2020 Land Rover Defender 110,Large SUV
+487,LAND ROVER,2018 Land Rover Range Rover Velar,Medium SUV
+488,SKODA,SKODA Karoq (2021-Present),Crossover
+489,PORSCHE,2024 Cayenne E-Hybrid Coupe,Large SUV
+490,BMW,BMW X3 M (F97) (2019-Present),Medium SUV
+491,LAND ROVER,2018 Land Rover Range Rover Velar,Medium SUV
+492,LAND ROVER,2018 Land Rover Range Rover Velar,Medium SUV
+493,LAND ROVER,2020 Land Rover Defender 110,Large SUV
+494,MERCEDES BENZ,2020 Mercedes-Benz GLE,Large SUV
+495,TOYOTA,TOYOTA Rav4 (2018-Present),Large MPV
+496,PORSCHE,2018 Cayenne S,Medium SUV
+497,LAND ROVER,2020 Land Rover Defender 110,Large SUV
+498,BMW,2024 BMW X2,Crossover
+591,JAGUAR,JAGUAR XF (2015-Present),Large
+592,AUDI,AUDI A5 Sportback (2019-Present),Medium
+593,OPEL,OPEL Insignia Hatchback (2013-Present),Medium
+594,AUDI,AUDI A5 Sportback (2011-Present),Medium
+595,HYUNDAI,HYUNDAI i30 Coupe (2012-Present),Compact
+596,PEUGEOT,2018 Peugeot SW,Medium
+597,TOYOTA,TOYOTA Avensis (2015-Present),Compact
+598,AUDI,AUDI A5 Sportback (2011-Present),Medium
+599,KIA,KIA Optima Sportswagon (2018-Present),Medium
+600,CITROEN,CITROEN DS4 (2010-Present),Compact
+601,AUDI,AUDI A6 (2018-Present),Lower Premium
+602,VOLKSWAGEN,2020 Volkswagen Passat Variant,Medium
+603,LEXUS,2014 Lexus IS,Compact
+604,AUDI,AUDI A5 Sportback (2011-Present),Medium
+605,VOLKSWAGEN,2020 Volkswagen Passat Variant,Medium
+606,LEXUS,2014 Lexus IS,Medium
+607,CITROEN,CITROEN DS4 (2010-Present),Compact
+608,TOYOTA,TOYOTA Avensis Wagon (2015-Present),Medium
+609,LEXUS,2014 Lexus IS,Medium
+610,LEXUS,2014 Lexus IS,Coupe
+611,OPEL,OPEL Insignia Hatchback (2013-Present),Medium
+612,CITROEN,CITROEN DS4 (2010-Present),Compact
+613,VOLVO,VOLVO V60 (2018-Present),Medium
+614,JAGUAR,JAGUAR XF (2015-Present),Luxury
+615,CITROEN,CITROEN DS4 (2010-Present),Compact
+616,AUDI,AUDI A5 Sportback (2019-Present),Medium
+617,PEUGEOT,2018 Peugeot SW,Medium
+618,VOLKSWAGEN,VOLKSWAGEN Passat (2019-Present),Medium
+619,JAGUAR,JAGUAR XF (2015-Present),Large
+620,VOLKSWAGEN,VOLKSWAGEN Passat (2019-Present),Medium
+621,VOLVO,VOLVO V60 Cross Country (2018-Present),Lower Premium
+622,AUDI,AUDI A5 Sportback (2011-Present),Medium
+623,HYUNDAI,HYUNDAI i30 Coupe (2012-Present),Compact
+624,VOLVO,VOLVO V60 (2018-Present),Medium
+625,JAGUAR,JAGUAR XF (2015-Present),Medium
+626,AUDI,AUDI A5 Sportback (2019-Present),Medium Premium
+627,MERCEDES BENZ,MERCEDES BENZ E-Class T-Modell (S213) (2016-Present),Medium Premium
+628,VOLKSWAGEN,VOLKSWAGEN Passat (2019-Present),Medium
+629,HYUNDAI,HYUNDAI i30 Coupe (2012-Present),Compact
+630,LEXUS,2014 Lexus IS,Medium
+631,KIA,KIA Optima Sportswagon (2018-Present),Medium
+632,SEAT,SEAT Leon X-Perience (2014-Present),Compact
+633,OPEL,OPEL Insignia Hatchback (2013-Present),Medium
+634,OPEL,OPEL Insignia Hatchback (2013-Present),Medium
+635,JAGUAR,JAGUAR XF (2015-Present),Medium
+636,AUDI,AUDI A5 Sportback (2011-Present),Coupe
+637,VOLVO,VOLVO V60 (2018-Present),Medium
+638,SEAT,SEAT Leon X-Perience (2014-Present),Compact
+639,AUDI,AUDI A5 Sportback (2011-Present),Medium
+640,AUDI,AUDI A5 Sportback (2019-Present),Medium Premium
+692,MERCEDES BENZ,MERCEDES BENZ C-Class Coupe (C205) (2016-Present),Medium
+693,RENAULT,RENAULT Laguna Coupe (2008-Present),Medium
+694,CHEVROLET,2015 Chevrolet Corvette C7 Z06,Coupe
+695,ALPINE,ALPINE A110 (2017-Present),Roadster & Convertible
+696,MERCEDES BENZ,MERCEDES BENZ C-Class Coupe (C205) (2016-Present),Medium
+697,BMW,BMW M2 Competition (2018-Present),Compact
+698,JAGUAR,JAGUAR F-Type Coupe (2020-Present),Coupe Cabrio
+699,TOYOTA,TOYOTA Supra (2019-Present),Roadster & Convertible
+700,MERCEDES BENZ,MERCEDES BENZ E-Class Coupe (C238) (2016-Present),Medium
+701,BMW,BMW M2 (2022-Present),Compact
+702,AUDI,AUDI R8 V10 performance RWD (2021-Present),Coupe
+703,MERCEDES BENZ,MERCEDES BENZ C-Class Coupe (C205) (2016-Present),Medium
+704,MERCEDES BENZ,MERCEDES BENZ E-Class Coupe (C238) (2016-Present),Medium
+705,RENAULT,RENAULT Laguna Coupe (2008-Present),Medium
+706,PORSCHE,PORSCHE 911 Carrera 4S (992) (2018-Present),Coupe
+707,CHEVROLET,2015 Chevrolet Corvette C7 Z06,Coupe
+708,BMW,BMW 4 Series Coupe (G22) (2020-Present),Medium
+709,MERCEDES BENZ,MERCEDES BENZ E-Class Coupe (C238) (2016-Present),Medium
+710,MERCEDES BENZ,MERCEDES BENZ C-Class Coupe (C205) (2016-Present),Medium
+711,ALPINE,ALPINE A110 (2017-Present),Roadster & Convertible
+712,DODGE,DODGE Challenger SRT (2015-Present),Coupe
+713,MERCEDES BENZ,MERCEDES BENZ C-Class Coupe (C205) (2016-Present),Medium
+714,MERCEDES BENZ,MERCEDES BENZ E-Class Coupe (C238) (2016-Present),Medium
+715,NISSAN,NISSAN 370z Nismo (2014-Present),Coupe
+716,MERCEDES BENZ,MERCEDES BENZ E-Class Coupe (C238) (2016-Present),Medium
+717,BMW,BMW M2 (2022-Present),Compact
+718,BMW,2023 BMW M4 CSL,Coupe
+719,Mercedes-AMG,2024 Mercedes-AMG GT Coupe,Coupe
+728,MCLAREN,MCLAREN GT (2019-Present),Coupe
+729,LOTUS,LOTUS Evora (2008-Present),Coupe
+730,LOTUS,LOTUS Evora (2008-Present),Coupe
+731,MASERATI,2021 Maserati MC20,Coupe
+776,VOLKSWAGEN,VOLKSWAGEN Tiguan Allspace (2021-Present),Medium MPV
+777,ASTON MARTIN,ASTON MARTIN DBX (2020-Present),Medium SUV
+778,PEUGEOT,PEUGEOT 5008 (2020-Present),Medium SUV
+779,BMW,2019 BMW X5,Large SUV
+780,LAND ROVER,LAND ROVER Range Rover SWB (2021-Present),Large SUV
+781,PEUGEOT,PEUGEOT 5008 (2020-Present),Medium SUV
+782,MERCEDES BENZ,2020 Mercedes-Benz GLS,Large SUV
+783,VOLKSWAGEN,VOLKSWAGEN Tiguan Allspace (2021-Present),Medium MPV
+784,AUDI,2019 Audi Q8,Large MPV
+785,VOLKSWAGEN,2019 Volkswagen Touareg,Premium SUV
+786,VOLKSWAGEN,2019 Volkswagen Touareg,Large SUV
+787,AUDI,2019 Audi Q8,Large MPV
+788,VOLKSWAGEN,2019 Volkswagen Touareg,Large SUV
+789,LAND ROVER,LAND ROVER Defender 130 (2022-Present),Large SUV
+790,PEUGEOT,PEUGEOT 5008 (2020-Present),Medium MPV
+791,CITROEN,2018 Citroen C5 Aircross,Crossover
+792,LAND ROVER,LAND ROVER Range Rover LWB (2021-Present),Large SUV
+793,BENTLEY,BENTLEY Bentayga Speed (2020-Present),Medium SUV
+794,BMW,BMW X7 (2022-Present),Large SUV
+795,CITROEN,2018 Citroen C5 Aircross,Crossover
+796,VOLKSWAGEN,VOLKSWAGEN Tiguan Allspace (2021-Present),Medium MPV
+797,LAND ROVER,LAND ROVER Range Rover SWB (2021-Present),Large SUV
+798,BMW,2024 BMW X5,Large SUV
+799,AUDI,AUDI Q5 Sportback (2020-Present),Medium SUV
+834,LINCOLN,LINCOLN Continental (2016-Present),Luxury
+835,JAGUAR,JAGUAR F-Pace (2020-Present),Medium SUV
+836,JAGUAR,JAGUAR F-Pace (2020-Present),Crossover
+837,BMW,2021 BMW 5 Series,Large
+838,LINCOLN,LINCOLN Continental (2016-Present),Large
+839,BMW,BMW 6 Series Gran Turismo (G32 LCI) (2020-Present),Luxury
+840,MASERATI,MASERATI Quattroporte VI (2016-Present),Luxury
+841,LINCOLN,LINCOLN Continental (2016-Present),Luxury
+842,JAGUAR,JAGUAR F-Pace (2020-Present),Large SUV
+843,BENTLEY,BENTLEY Mulsanne (2016-Present),Luxury
+844,JAGUAR,JAGUAR F-Pace (2020-Present),Medium SUV
+845,BMW,2021 BMW 5 Series,Large
+846,BMW,2021 BMW 5 Series,Medium Premium
+847,BMW,2021 BMW 5 Series,Luxury
+848,PORSCHE,PORSCHE Panamera 4 (971) (2020-Present),Large
+849,PORSCHE,PORSCHE Panamera (971) (2020-Present),Large
+850,LINCOLN,LINCOLN Continental (2016-Present),Large
+851,MERCEDES BENZ,MERCEDES BENZ S-Class Maybach (X223) (2020-Present),Luxury
+970,OPEL,OPEL Crossland X (2017-Present),Crossover
+971,MINI,2021 Mini Countryman,Crossover
+972,MITSUBISHI,2020 Mitsubishi ASX,Medium MPV
+973,AUDI,AUDI Q5 (2020-Present),Medium SUV
+974,TOYOTA,2020 Toyota C-HR,Crossover
+975,AUDI,AUDI Q3 (2018-Present),Crossover
+976,MAZDA,MAZDA CX-5 (2016-Present),Crossover
+977,TOYOTA,2020 Toyota C-HR,Compact
+978,SUZUKI,SUZUKI Ignis (2019-Present),Mini
+979,JAGUAR,2017 Jaguar E-Pace,Medium SUV
+980,MAZDA,MAZDA CX-5 (2012-Present),Medium MPV
+981,BMW,BMW X1 (2022-Present),Crossover
+982,FORD,2021 Ford Puma ST,Crossover
+983,MAZDA,MAZDA CX-5 (2016-Present),Medium MPV
+984,AUDI,AUDI Q3 (2018-Present),Crossover
+985,VOLKSWAGEN,VOLKSWAGEN T-Roc (2021-Present),Crossover
+986,AUDI,AUDI Q3 (2018-Present),Crossover
+987,MINI,2021 Mini Countryman,Crossover
+988,CUPRA,CUPRA Formentor (2020-Present),Compact
+989,DS AUTOMOBILES,2018 Citroen DS 3 Crossback,Crossover
+990,AUDI,AUDI Q5 (2020-Present),Medium MPV
+991,SSANGYONG,2016 SsangYong Tivoli XLV,Crossover
+992,VOLKSWAGEN,VOLKSWAGEN T-Roc (2021-Present),Crossover
+993,MINI,2021 Mini Countryman,Crossover
+994,SKODA,2021 Skoda Kodiaq,Medium MPV
+995,FIAT,FIAT 500 X (2018-Present),Crossover
+996,RENAULT,RENAULT Scenic XMOD (2013-Present),Medium MPV
+997,MINI,2021 Mini Countryman,Crossover
+998,LAND ROVER,LAND ROVER Range Rover Evoque Convertible (2016-Present),Small SUV
+999,NISSAN,NISSAN X-Trail (2022-Present),Medium SUV
+1000,AUDI,2019 Audi A6 allroad quattro,Medium Premium
+1001,FIAT,FIAT 500 X (2018-Present),Crossover
+1002,SUZUKI,SUZUKI SX4 S-Cross (2016-Present),Crossover
+1003,PEUGEOT,2020 Peugeot 2008,Crossover
+1004,FIAT,2013 Fiat 500L Trekking,Crossover
+1005,PEUGEOT,PEUGEOT 3008 (2020-Present),Crossover
+1006,KIA,KIA Stonic (2017-Present),Compact
+1007,FORD,FORD Puma (2019-Present),Crossover
+1008,TOYOTA,2020 Toyota C-HR,Compact
+1009,AUDI,AUDI Q3 Sportback (2019-Present),Compact
+1010,AUDI,AUDI Q3 Sportback (2019-Present),Compact
+1011,DS AUTOMOBILES,2018 Citroen DS 3 Crossback,Crossover
+1012,MINI,2021 Mini Countryman,Crossover
+1013,TOYOTA,2020 Toyota C-HR,Compact
+1014,JAGUAR,2017 Jaguar E-Pace,Crossover
+1015,RENAULT,RENAULT Scenic XMOD (2013-Present),Medium MPV
+1016,JAGUAR,2017 Jaguar E-Pace,Crossover
+1017,VOLKSWAGEN,VOLKSWAGEN T-Roc (2021-Present),Crossover
+1018,JAGUAR,2017 Jaguar E-Pace,Crossover
+1019,NISSAN,NISSAN X-Trail (2022-Present),Medium SUV
+1020,TOYOTA,2020 Toyota C-HR,Compact
+1021,SUZUKI,SUZUKI SX4 S-Cross (2016-Present),Crossover
+1022,SUZUKI,SUZUKI SX4 S-Cross (2016-Present),Crossover
+1023,RENAULT,RENAULT Scenic XMOD (2013-Present),Medium MPV
+1024,FIAT,2014 Fiat Panda Cross,Mini
+1025,SUZUKI,SUZUKI Ignis (2019-Present),Mini
+1026,NISSAN,2013 Nissan Juke Nismo,Small SUV
+1027,AUDI,2019 Audi A6 allroad quattro,Medium Premium
+1028,AUDI,AUDI Q3 (2018-Present),Crossover
+1029,NISSAN,2013 Nissan Juke Nismo,Crossover
+1030,MERCEDES BENZ,MERCEDES BENZ GLC (X254) (2022-Present),Medium SUV
+1031,DS AUTOMOBILES,2018 Citroen DS 3 Crossback,Crossover
+1032,RENAULT,2020 Renault Arkana,Crossover
+1033,BMW,BMW X1 (2022-Present),Crossover
+1052,PORSCHE,PORSCHE 718 Boxster S (982) (2016-Present),Coupe
+1053,MAZDA,2015 Mazda MX-5/Miata (ND),Roadster & Convertible
+1054,BMW,BMW 2 Series Convertible (F23) LCI (2017-Present),Roadster & Convertible
+1055,BMW,BMW 2 Series Convertible (F23) LCI (2017-Present),Compact
+1056,BMW,BMW 2 Series Convertible (F23) LCI (2017-Present),Compact
+1057,BMW,BMW Z4 (G29) (2018-Present),Roadster & Convertible
+1058,BENTLEY,BENTLEY Continental GTC (2018-Present),Coupe
+1059,BMW,BMW Z4 (G29) (2018-Present),Coupe Cabrio
+1060,BMW,BMW 2 Series Convertible (F23) LCI (2017-Present),Compact
+1061,AUDI,AUDI R8 Spyder (2018-Present),Coupe
+1102,AUDI,AUDI S5 Sportback (2020-Present),Medium Premium
+1103,BMW,BMW 3 Series Sedan (2022-Present),Medium
+1104,BMW,BMW 3 Series Gran Turismo LCI (F34) (2016-Present),Medium Premium
+1105,BMW,BMW M5 Competition (F90 LCI) (2020-Present),Luxury
+1106,BMW,BMW 3-Series Touring (2022-Present),Medium Premium
+1107,AUDI,AUDI A6 Avant (C8) (2018-Present),Lower Premium
+1108,BMW,BMW 3 Series Gran Turismo LCI (F34) (2016-Present),Medium Premium
+1109,AUDI,AUDI A6 Avant (C8) (2018-Present),Lower Premium
+1110,BMW,BMW 3-Series Touring (2022-Present),Medium Premium
+1111,BMW,BMW 3 Series Sedan (2022-Present),Medium Premium
+1112,BMW,BMW 3 Series Gran Turismo LCI (F34) (2016-Present),Medium Premium
+1113,BMW,BMW 3 Series Sedan (2022-Present),Medium
+1114,BMW,BMW 3-Series Touring (2022-Present),Medium Premium
+1115,LEXUS,2022 Lexus ES,Large
+1116,BMW,BMW 3 Series Sedan (2022-Present),Medium
+1117,BMW,BMW 3 Series Gran Turismo LCI (F34) (2016-Present),Medium
+1118,BMW,BMW 3 Series Gran Turismo LCI (F34) (2016-Present),Medium Premium
+1119,BMW,BMW 3-Series Touring (2022-Present),Medium Premium
+1120,AUDI,2023 Audi RS7 Sportback,Luxury
+1121,BMW,BMW 3-Series Touring (2022-Present),Medium Premium
+1122,BMW,BMW 3-Series Touring (2022-Present),Medium Premium
+1146,JAGUAR,JAGUAR XE (2019-Present),Luxury
+1147,JAGUAR,JAGUAR XE (2019-Present),Lower Premium
+1148,JAGUAR,JAGUAR XE (2019-Present),Luxury
+1149,BMW,BMW M3 Sedan (G80) (2020-Present),Medium Premium
+1150,VOLVO,VOLVO S60 (2018-Present),Medium
+1151,AUDI,2020 Audi A4 8W,Lower Premium
+1152,JAGUAR,JAGUAR XE (2019-Present),Luxury
+1153,JAGUAR,JAGUAR XE (2019-Present),Lower Premium
+1154,VOLVO,VOLVO S60 (2018-Present),Medium
+1155,BMW,BMW 4 Series Gran Coupe (G26) (2021-Present),Medium
+1156,AUDI,2020 Audi A4 8W,Lower Premium
+1157,VOLVO,VOLVO S60 (2018-Present),Luxury
+1171,AUDI,AUDI A1 Sportback (2018-Present),Crossover
+1172,MERCEDES BENZ,2019 Mercedes-Benz CLA Coupe,Entry Premium
+1173,BMW,BMW 2 Series Gran Coupe (F44) (2019-Present),Compact
+1174,MERCEDES BENZ,2019 Mercedes-Benz CLA Coupe,Entry Premium
+1175,BMW,BMW 2 Series Gran Coupe (F44) (2019-Present),Compact
+1176,MERCEDES BENZ,2019 Mercedes-Benz CLA Coupe,Lower Premium
+1177,BMW,BMW 2 Series Gran Coupe (F44) (2019-Present),Compact
+1240,SKODA,SKODA Superb Scout (2019-Present),Medium
+1241,AUDI,AUDI A7 Sportback (2017-Present),Medium Premium
+1242,VAUXHALL,2022 Vauxhall Astra Sports Tourer,Coupe Cabrio
+1243,MAZDA,MAZDA 6 / Atenza Sedan (2018-Present),Medium
+1244,RENAULT,RENAULT Latitude (2010-Present),Medium
+1245,VOLVO,VOLVO S90 (2019-Present),Medium
+1246,VOLVO,VOLVO V90 Cross Country (2019-Present),Medium
+1247,BMW,BMW 5 Series Touring (G31 LCI) (2020-Present),Luxury
+1248,MAZDA,MAZDA 6 / Atenza Wagon (2015-Present),Medium
+1249,RENAULT,RENAULT Latitude (2010-Present),Medium
+1250,MAZDA,MAZDA 6 / Atenza Wagon (2015-Present),Medium
+1251,MAZDA,MAZDA 6 / Atenza Sedan (2018-Present),Large
+1252,BMW,BMW 5 Series Touring (G31 LCI) (2020-Present),Luxury
+1253,MAZDA,MAZDA 6 / Atenza Wagon (2015-Present),Medium
+1254,RENAULT,RENAULT Latitude (2010-Present),Medium
+1255,VOLVO,VOLVO S90 (2019-Present),Luxury
+1256,HYUNDAI,HYUNDAI i40 Wagon (2018-Present),Medium
+1257,MAZDA,MAZDA 6 / Atenza Wagon (2015-Present),Medium
+1258,VOLVO,VOLVO V90 Cross Country (2019-Present),Medium
+1259,CITROEN,CITROEN C5 Tourer (2010-Present),Medium
+1260,VOLVO,VOLVO S90 (2019-Present),Large
+1261,VAUXHALL,2022 Vauxhall Astra Sports Tourer,Coupe Cabrio
+1262,CITROEN,CITROEN C5 Tourer (2010-Present),Medium
+1263,RENAULT,RENAULT Latitude (2010-Present),Coupe
+1264,VOLVO,VOLVO V90 Cross Country (2019-Present),Medium
+1265,MAZDA,MAZDA 6 / Atenza Wagon (2015-Present),Medium
+1266,CITROEN,CITROEN C5 Crosstourer (2014-Present),Large
+1267,CITROEN,CITROEN C5 Tourer (2010-Present),Medium
+1268,VAUXHALL,2022 Vauxhall Astra Sports Tourer,Coupe Cabrio
+1269,MAZDA,MAZDA 6 / Atenza Wagon (2015-Present),Medium
+1270,BMW,BMW 5 Series Touring (G31 LCI) (2020-Present),Large
+1271,VAUXHALL,2022 Vauxhall Astra Sports Tourer,Coupe Cabrio
+1272,VOLVO,VOLVO V90 Cross Country (2019-Present),Medium
+1281,AUDI,AUDI A5 (2016-Present),Medium
+1282,MASERATI,MASERATI GranTurismo (2007-Present),Coupe
+1283,AUDI,AUDI A5 (2016-Present),Medium
+1284,BMW,BMW M8 Coupe (2022-Present),Coupe
+1321,BMW,BMW 4-Series Convertible (G23) (2020-Present),Medium
+1322,AUDI,AUDI A5 Cabriolet (2012-Present),Coupe Cabrio
+1323,JAGUAR,JAGUAR F-Type Convertible (2020-Present),Coupe
+1324,MERCEDES BENZ,MERCEDES BENZ C-Class (A205) (2018-Present),Compact
+1325,MERCEDES BENZ,MERCEDES BENZ SL 63 AMG (R231) (2016-Present),Coupe
+1326,Mercedes-AMG,Mercedes-AMG SL-Class AMG (2021-Present),Coupe
+1327,Mercedes-AMG,Mercedes-AMG SL-Class AMG (2021-Present),Coupe Cabrio
+1328,Mercedes-AMG,Mercedes-AMG SL-Class AMG (2021-Present),Coupe
+1329,MAZDA,MAZDA MX-5 / Miata RF (2016-Present),Roadster & Convertible
+1330,JAGUAR,JAGUAR F-Type Convertible (2020-Present),Coupe Cabrio
+1331,AUDI,AUDI A5 Cabriolet (2012-Present),Coupe Cabrio
+1332,AUDI,AUDI A5 Cabriolet (2012-Present),Coupe Cabrio
+1333,OPEL,2013 Opel Cascada Coupe Cabrio,Coupe Cabrio
+1334,OPEL,2013 Opel Cascada Coupe Cabrio,Coupe Cabrio
+1335,BMW,BMW 4-Series Convertible (G23) (2020-Present),Coupe Cabrio
+1336,OPEL,2013 Opel Cascada Coupe Cabrio,Coupe Cabrio
+1337,PORSCHE,PORSCHE 911 Targa 4 (992) (2020-Present),Coupe
+1338,AUDI,AUDI A5 Cabriolet (2012-Present),Coupe Cabrio
+1339,BMW,BMW 4-Series Convertible (G23) (2020-Present),Medium
+1361,MERCEDES BENZ,MERCEDES BENZ GLK-Klasse (X204) (2008-Present),Medium SUV
+1362,BMW,2020 BMW X6,Large SUV
+1363,MERCEDES BENZ,MERCEDES BENZ GLK-Klasse (X204) (2008-Present),Medium SUV
+1364,MERCEDES BENZ,MERCEDES BENZ GLK-Klasse (X204) (2008-Present),Small SUV
+1365,MERCEDES BENZ,MERCEDES BENZ GLK-Klasse (X204) (2008-Present),Medium SUV
+1366,MERCEDES BENZ,MERCEDES BENZ GLK-Klasse (X204) (2008-Present),Medium SUV
+1367,BMW,2020 BMW X6,Large SUV
+1368,BMW,2020 BMW X6,Premium SUV
+1369,MERCEDES BENZ,MERCEDES BENZ GLK-Klasse (X204) (2008-Present),Medium SUV
+1370,BMW,2020 BMW X6 M,Premium SUV
+1371,BMW,2024 BMW X6,Large SUV
+1372,MERCEDES BENZ,MERCEDES BENZ GLK-Klasse (X204) (2008-Present),Medium SUV
+1381,BMW,2020 BMW 8 Series Gran Coupe,Large
+1382,MERCEDES BENZ,MERCEDES BENZ T-Class (2022-Present),Medium MPV
+1383,MERCEDES BENZ,MERCEDES BENZ T-Class (2022-Present),Medium MPV
+1384,MERCEDES BENZ,MERCEDES BENZ T-Class (2022-Present),Medium MPV
+1385,MERCEDES BENZ,MERCEDES BENZ T-Class (2022-Present),Medium MPV
+1406,BMW,BMW 2 Series Active Tourer (2021-Present),Crossover
+1407,VOLKSWAGEN,VOLKSWAGEN Touran (2015-Present),Medium MPV
+1408,CITROEN,CITROEN Berlingo (2018-Present),Large MPV
+1409,NISSAN,NISSAN Cube (2008-Present),Small SUV
+1410,FIAT,FIAT 500L (2017-Present),Medium MPV
+1411,NISSAN,NISSAN Cube (2008-Present),Small SUV
+1412,NISSAN,NISSAN Cube (2008-Present),Small SUV
+1413,VOLKSWAGEN,VOLKSWAGEN Touran (2015-Present),Medium MPV
+1414,VOLKSWAGEN,VOLKSWAGEN Touran (2015-Present),Medium MPV
+1415,VOLKSWAGEN,VOLKSWAGEN Touran (2015-Present),Medium MPV
+1460,SUZUKI,SUZUKI Vitara (2018-Present),Crossover
+1461,LAND ROVER,LAND ROVER Discovery Sport (2019-Present),Large SUV
+1462,MAZDA,MAZDA CX-30 (2019-Present),Compact
+1463,FORD,FORD Kuga (2019-Present),Crossover
+1464,SUZUKI,SUZUKI Grand Vitara 3 Doors (2008-Present),Small SUV
+1465,FORD,FORD Kuga (2019-Present),Crossover
+1466,VOLKSWAGEN,2019 Volkswagen T-Cross,Crossover
+1467,CHEVROLET,CHEVROLET Captiva (2011-Present),Small SUV
+1468,FORD,FORD Kuga (2019-Present),Small SUV
+1469,MAZDA,MAZDA CX-30 (2019-Present),Compact
+1470,MERCEDES BENZ,2021 Mercedes-Benz GLA,Crossover
+1471,SUZUKI,SUZUKI Vitara (2018-Present),Crossover
+1472,FORD,FORD EcoSport (2017-Present),Crossover
+1473,CHEVROLET,CHEVROLET Captiva (2011-Present),Small SUV
+1474,FORD,FORD Kuga (2019-Present),Crossover
+1475,SEAT,SEAT Arona (2021-Present),Crossover
+1476,MERCEDES BENZ,2021 Mercedes-Benz GLA,Crossover
+1477,CHEVROLET,CHEVROLET Captiva (2011-Present),Small SUV
+1478,VOLKSWAGEN,2019 Volkswagen T-Cross,Crossover
+1479,CHEVROLET,CHEVROLET Captiva (2011-Present),Small SUV
+1480,TOYOTA,TOYOTA Corolla Cross (2022-Present),Crossover
+1481,SUZUKI,SUZUKI Vitara (2018-Present),Crossover
+1482,VOLKSWAGEN,2019 Volkswagen T-Cross,Mini
+1483,SUZUKI,SUZUKI Vitara (2018-Present),Crossover
+1502,VOLKSWAGEN,VOLKSWAGEN Sharan (2010-Present),Large MPV
+1503,CHEVROLET,CHEVROLET Express (2008-Present),Large MPV
+1504,DACIA,2023 Dacia Jogger,Large MPV
+1505,VOLKSWAGEN,2022 Volkswagen Multivan,Large MPV
+1506,CHEVROLET,CHEVROLET Express (2008-Present),Large SUV
+1507,CITROEN,CITROEN Grand C4 Picasso (2016-Present),Medium MPV
+1508,VOLKSWAGEN,2022 Volkswagen Multivan,Large MPV
+1509,VOLKSWAGEN,VOLKSWAGEN Sharan (2010-Present),Large MPV
+1510,VOLKSWAGEN,VOLKSWAGEN Sharan (2010-Present),Large MPV
+1574,VOLKSWAGEN,VOLKSWAGEN CrossGolf (2010-Present),Crossover
+1575,FIAT,FIAT Doblo (2015-Present),Large MPV
+1576,RENAULT,RENAULT Scenic (2016-Present),Crossover
+1577,RENAULT,RENAULT Grand Scenic (2016-Present),Small MPV
+1578,CITROEN,2016 Citroen C4 Picasso,Crossover
+1579,FIAT,FIAT Doblo (2015-Present),Small MPV
+1580,MAZDA,MAZDA 5 / Premacy (2010-Present),Medium MPV
+1581,VOLKSWAGEN,VOLKSWAGEN CrossTouran (2011-Present),Medium MPV
+1582,RENAULT,RENAULT Grand Scenic (2016-Present),Small MPV
+1583,SEAT,SEAT Altea (2009-Present),Crossover
+1584,SEAT,SEAT Altea (2009-Present),Compact
+1585,RENAULT,RENAULT Scenic (2016-Present),Crossover
+1586,RENAULT,RENAULT Grand Scenic (2016-Present),Medium MPV
+1587,FIAT,FIAT 500L Living (2013-Present),Crossover
+1588,OPEL,OPEL Insignia Country Tourer (2013-Present),Medium
+1589,CITROEN,2016 Citroen C4 Picasso,Medium MPV
+1590,SEAT,SEAT Alhambra (2010-Present),Medium SUV
+1591,VOLKSWAGEN,VOLKSWAGEN CrossTouran (2011-Present),Medium MPV
+1592,OPEL,OPEL Insignia Country Tourer (2013-Present),Medium
+1593,RENAULT,RENAULT Scenic (2016-Present),Medium MPV
+1594,RENAULT,2013 Renault Grand Scenic,Medium MPV
+1595,OPEL,OPEL Insignia Country Tourer (2013-Present),Medium
+1596,OPEL,OPEL Insignia Country Tourer (2013-Present),Medium
+1597,RENAULT,RENAULT Scenic (2016-Present),Medium MPV
+1598,SEAT,SEAT Altea (2009-Present),Crossover
+1599,VOLKSWAGEN,VOLKSWAGEN CrossGolf (2010-Present),Crossover
+1600,DACIA,DACIA Lodgy (2012-Present),Large MPV
+1601,SEAT,SEAT Alhambra (2010-Present),Medium MPV
+1602,RENAULT,2013 Renault Grand Scenic,Medium MPV
+1603,VOLKSWAGEN,VOLKSWAGEN CrossGolf (2010-Present),Crossover
+1604,FIAT,FIAT Doblo (2015-Present),Large MPV
+1605,SEAT,SEAT Altea (2009-Present),Crossover
+1606,RENAULT,2013 Renault Grand Scenic,Medium MPV
+1607,VOLKSWAGEN,VOLKSWAGEN CrossGolf (2010-Present),Crossover
+1628,DAIHATSU,DAIHATSU Cuore (2007-Present),Small
+1629,CITROEN,CITROEN C1 5 Doors (2014-Present),Mini
+1630,FORD,FORD Fiesta 3 doors (2017-Present),Mini
+1631,MAZDA,2020 Mazda 2,Small
+1632,MG,MG MG3 (2013-Present),Compact
+1633,PEUGEOT,PEUGEOT 108 5 Door (2014-Present),Mini
+1634,PEUGEOT,PEUGEOT 108 5 Door (2014-Present),Mini
+1635,FORD,FORD Fiesta 3 doors (2017-Present),Compact
+1636,DATSUN,DATSUN Mi-Do (2014-Present),Mini
+1637,DATSUN,DATSUN Mi-Do (2014-Present),Small
+1674,LANCIA,LANCIA Ypsilon (846) (2021-Present),Mini
+1675,KIA,2021 Kia Picanto,Small
+1676,KIA,2021 Kia Picanto,Mini
+1677,VOLKSWAGEN,VOLKSWAGEN up! 5 doors (2016-Present),Mini
+1678,LANCIA,LANCIA Ypsilon (846) (2021-Present),Mini
+1679,OPEL,OPEL Adam Rocks (2014-Present),Mini
+1680,KIA,2021 Kia Picanto,Mini
+1681,VOLKSWAGEN,VOLKSWAGEN up! 5 doors (2016-Present),Mini
+1682,VOLKSWAGEN,VOLKSWAGEN up! 5 doors (2016-Present),Small
+1683,MITSUBISHI,MITSUBISHI Space Star (2013-Present),Mini
+1684,OPEL,OPEL Adam (2013-Present),Mini
+1685,MITSUBISHI,MITSUBISHI Space Star (2013-Present),Small
+1686,OPEL,OPEL Adam (2013-Present),Mini
+1687,SKODA,SKODA Citigo 3 doors (2017-Present),Mini
+1688,HYUNDAI,HYUNDAI i30 (2012-Present),Compact
+1689,OPEL,OPEL Adam (2013-Present),Mini
+1690,MITSUBISHI,MITSUBISHI Space Star (2013-Present),Mini
+1691,HYUNDAI,HYUNDAI i30 (2012-Present),Compact
+1692,LANCIA,LANCIA Ypsilon (846) (2021-Present),Mini
+1693,OPEL,OPEL Adam Rocks (2014-Present),Mini
